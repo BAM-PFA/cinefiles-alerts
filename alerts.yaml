@@ -1,6 +1,8 @@
 alerts:
-  - html: >
-      <div class="alert alert-info text-center">
-        <b>ALERT!</b>
-        <p>This is a <b>another</b> test alert.</p>
-      </div>
+  # - html: Maintenance downtime today! There will be a short interruption around 1pm today.
+  # - html: >
+  # - html: >
+  #     <div class="alert alert-info text-center">
+  #       <b>ALERT!</b>
+  #       <p>This is a <b>another</b> test alert.</p>
+  #     </div>
