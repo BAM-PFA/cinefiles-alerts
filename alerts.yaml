@@ -1,6 +1,6 @@
 alerts:
   - html: ><em>Maintenance downtime today!</em> There will be a short interruption around 1pm today.
-  - html: >
+  # - html: >
   # - html: >
   #     <div class="alert alert-info text-center">
   #       <b>ALERT!</b>
